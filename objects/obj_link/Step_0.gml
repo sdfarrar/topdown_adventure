@@ -1,4 +1,4 @@
 switch(state){
-	case states.normal: spr_link_normal(); break;
-	case states.walking: spr_link_walking(); break;
+	case STATES.normal: scr_link_normal(id); break;
+	case STATES.walking: scr_link_walking(id); break;
 }

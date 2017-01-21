@@ -680,7 +680,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\\spr_get_inputs\\spr_get_inputs.yy",
+                "resourcePath": "scripts\\scr_get_inputs\\scr_get_inputs.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -718,7 +718,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\\spr_link_normal\\spr_link_normal.yy",
+                "resourcePath": "scripts\\scr_link_normal\\scr_link_normal.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -737,7 +737,45 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\\spr_link_walking\\spr_link_walking.yy",
+                "resourcePath": "scripts\\scr_link_walking\\scr_link_walking.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3b792ee7-01d3-461d-bf80-2366d2e7cbc1",
+            "Value": {
+                "id": "82130eba-55f1-4e08-879d-4773837c3e82",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\\scr_link_running\\scr_link_running.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f0160f3a-a7a8-45be-8b57-65602470dddc",
+            "Value": {
+                "id": "b40bd594-b310-4385-9b4f-fc163cf796d7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\\scr_change_direction\\scr_change_direction.yy",
                 "resourceType": "GMScript"
             }
         }
@@ -748,8 +786,10 @@
     ],
     "script_order": [
         "a4f38008-4c6b-4527-bfc3-3c85990677de",
+        "f0160f3a-a7a8-45be-8b57-65602470dddc",
         "c81c6ea8-2866-4a6a-8667-c1034bb2f7bd",
-        "972326d7-3b12-450c-a43b-dc1a719c7800"
+        "972326d7-3b12-450c-a43b-dc1a719c7800",
+        "3b792ee7-01d3-461d-bf80-2366d2e7cbc1"
     ],
     "tutorial": ""
 }
