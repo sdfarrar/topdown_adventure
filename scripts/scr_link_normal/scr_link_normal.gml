@@ -1,4 +1,5 @@
 /// scr_link_normal ( _inst )
+/// @param _inst the object
 
 scr_get_inputs(argument0);
 

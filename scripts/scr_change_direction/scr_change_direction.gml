@@ -1,4 +1,6 @@
-/// scr_change_direction ( _inst, dir_check )
+/// @description Changes direction of an object
+/// @param _inst the object
+/// @param dir_check direction to check
 var _inst = argument0;
 var dir_check = argument1;
 

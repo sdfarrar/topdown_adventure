@@ -1,4 +1,6 @@
 /// scr_get_inputs ( _inst )
+/// @param _inst the object
+
 var _inst = argument0;
 
 var key_left = keyboard_check(ord("A"));

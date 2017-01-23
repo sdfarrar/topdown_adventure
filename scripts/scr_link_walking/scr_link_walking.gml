@@ -1,4 +1,5 @@
 /// scr_link_walking ( _inst )
+/// @param _inst
 
 scr_get_inputs(argument0);
 
